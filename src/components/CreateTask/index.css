@@ -1,0 +1,21 @@
+.bg-container {
+  background-color: #131213;
+  min-height: 99vh;
+  max-width: 370px;
+  padding: 20px;
+}
+.heading1 {
+  color: #f3aa4e;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.label {
+  color: #ffffff;
+}
+.inner-con {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
